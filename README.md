@@ -9,8 +9,8 @@ FBPStream is a fully online stream clustering algorithm. In summary, the main co
 - An efficient boundary micro-cluster peeling clustering strategy is proposed to improve the clustering quality of clusters with ambiguous boundaries.
 
 The purposed FBPStream framework is outlined in Fig. 1. With the interplay of the six components, FBPStream can efficiently cluster data streams in real time. The descriptions of all the components are given below.
-![Fig. 1.fully online framework.](fig/framework.png?v=1&type=image)
-Fig. 1.fully online framework.
+![framework.](fig/framework.jpg?v=1&type=image)
+Fig. 1: fully online framework.
 
 - __Data Stream Absorber:__ It receives each data point from the data stream and summarizes it into an existing micro-cluster (or creates a new one).
 - __Outlier Pool:__ It caches inactive micro-clusters which cannot be removed directly from memory because they may be activated in the future.
