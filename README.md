@@ -26,7 +26,7 @@ Fig. 1: fully online framework.
 
 
 ```
-@article{du2022m3w,
+@article{
   title={Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster},
   author={Sun Jiarui, Du Mingjing, Sun Chen, Dong Yongquan},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
