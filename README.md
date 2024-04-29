@@ -23,7 +23,7 @@ Fig. 1: fully online framework.
 - JDK 1.8
 - Apache Maven 3.6.0
 
-- '''
+'''
 @article{du2022m3w,
   title={Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster},
   author={Sun Jiarui, Du Mingjing, Sun Chen, Dong Yongquan},
