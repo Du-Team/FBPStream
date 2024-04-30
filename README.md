@@ -33,8 +33,8 @@ Fig. 1: fully online framework.
   volume={},
   number={},
   pages={},
-  year={},
-  doi={}
+  year={2024},
+  doi={10.1109/TNNLS.2024.3382033}
 }
 ```
 
