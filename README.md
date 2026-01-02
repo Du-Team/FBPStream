@@ -2,6 +2,28 @@
 A Java implementation of "Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster".
 
 ## Introduction
+
+A Python implementation of the clustering algorithm presented in:
+
+   <b><i> Jiarui Sun, Mingjing Du<sup>*</sup>, Chen Sun, Yongquan Dong. Efficient online stream clustering based on fast peeling of boundary micro-cluster. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024.</i></b>
+
+The paper is available online at: <a href="https://dumingjing.github.io/files/paper-12_2024-03-15/paper.pdf">pdf</a>. 
+
+If you use this implementation in your work, please add a reference/citation to the paper. You can use the following bibtex entry:
+
+```
+@article{
+  title={Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster},
+  author={Sun Jiarui, Du Mingjing, Sun Chen, Dong Yongquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={},
+  number={},
+  pages={},
+  year={2024},
+  doi={10.1109/TNNLS.2024.3382033}
+}
+```
+
 FBPStream is a fully online stream clustering algorithm. In summary, the main contributions of this paper are:
 
 - A fully online stream clustering algorithm FBPStream is proposed, which can simultaneously guarantee the clustering efficiency and quality.
@@ -23,18 +45,4 @@ Fig. 1: fully online framework.
 - JDK 1.8
 - Apache Maven 3.6.0
 
-
-
-```
-@article{
-  title={Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster},
-  author={Sun Jiarui, Du Mingjing, Sun Chen, Dong Yongquan},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  volume={},
-  number={},
-  pages={},
-  year={2024},
-  doi={10.1109/TNNLS.2024.3382033}
-}
-```
 
