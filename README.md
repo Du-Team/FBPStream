@@ -5,7 +5,7 @@ A Java implementation of "Efficient Online Stream Clustering Based on Fast Peeli
 
 A Python implementation of the clustering algorithm presented in:
 
-   <b><i> Jiarui Sun, Mingjing Du<sup>*</sup>, Chen Sun, Yongquan Dong. Efficient online stream clustering based on fast peeling of boundary micro-cluster. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024.</i></b>
+   <b><i> Jiarui Sun, Mingjing Du<sup>*</sup>, Chen Sun, Yongquan Dong. Efficient online stream clustering based on fast peeling of boundary micro-cluster. <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2025, 36(3): 5680 - 5693.</i></b>
 
 The paper is available online at: <a href="https://dumingjing.github.io/files/paper-12_2024-03-15/paper.pdf">pdf</a>. 
 
@@ -16,10 +16,10 @@ If you use this implementation in your work, please add a reference/citation to 
   title={Efficient Online Stream Clustering Based on Fast Peeling of Boundary Micro-Cluster},
   author={Sun Jiarui, Du Mingjing, Sun Chen, Dong Yongquan},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  volume={},
-  number={},
-  pages={},
-  year={2024},
+  volume={36},
+  number={3},
+  pages={5680-5693},
+  year={2025},
   doi={10.1109/TNNLS.2024.3382033}
 }
 ```
